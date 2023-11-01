@@ -10,9 +10,9 @@ Post Your Work On Github
 This is a project made to perform **Version Control** using the bikeshare python project. The goal of the bikeshare project was to analyze and build an interactive program using the bike activities within three States in the USA namely Chicago, New York and Washington
 
 ### Files used
-1Bikeshare.py
-1Git Command Documentation.pdf
-1csv files (washington.csv, newyorkcity.csv,chicago.csv)
+* Bikeshare.py
+* Git Command Documentation.pdf
+* Csv files (washington.csv, newyorkcity.csv,chicago.csv)
 
 ### Credits
 Udacity
