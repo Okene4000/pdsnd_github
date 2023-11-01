@@ -7,12 +7,14 @@ This project was created on the 1st Of November, 2023
 Post Your Work On Github
 
 ### Description
-This is a project made to perform **Version Control** using the bikeshare python project 
+This is a project made to perform **Version Control** using the bikeshare python project. The goal of the bikeshare project was to analyze and build an interactive program using the bike activities within three States in the USA namely Chicago, New York and Washington
 
 ### Files used
-*Bikeshare.py
-*Git Command Documentation.pdf
+1Bikeshare.py
+1Git Command Documentation.pdf
+1csv files (washington.csv, newyorkcity.csv,chicago.csv)
 
 ### Credits
 Udacity
+
 
